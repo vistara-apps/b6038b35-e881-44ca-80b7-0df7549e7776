@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "WittyReply",
+    "subtitle": "Built with Zara",
+    "description": "WittyReply is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://b6038b35e88144ca80b70df7549e7776-y5gy.vercel.app",
+    "splashImageUrl": "https://b6038b35e88144ca80b70df7549e7776-y5gy.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://b6038b35e88144ca80b70df7549e7776-y5gy.vercel.app/image.png",
+    "tagline": "WittyReply",
+    "screenshotUrls": [
+      "https://b6038b35e88144ca80b70df7549e7776-y5gy.vercel.app/screenshot.png",
+      "https://b6038b35e88144ca80b70df7549e7776-y5gy.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://b6038b35e88144ca80b70df7549e7776-y5gy.vercel.app/api/webhook"
+  }
+}
